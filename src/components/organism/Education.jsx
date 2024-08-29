@@ -145,22 +145,6 @@ const Education = () => {
           <br />
           <CardUniv />
           <CardBootcamp />
-          <div className="flex flex-col items-center mt-8 smm:flex-row smm:justify-between">
-            <Link to="/certificates">
-              <Button>Certificates</Button>
-            </Link>
-            <div className="py-2">
-              <IoIosArrowRoundUp className="w-10 h-10 smm:hidden" />
-            </div>
-            <div className="smm:px-4">
-              <IoIosArrowRoundBack className="w-10 h-10 hidden smm:block" />
-            </div>
-            <p ref={messageRef} className="font-montserrat">
-              Click the “Certificate” button to view all the certificates I
-              possess.
-            </p>
-          </div>
-        </div>
       </section>
     </>
   );
