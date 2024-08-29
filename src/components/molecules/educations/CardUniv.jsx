@@ -33,10 +33,10 @@ const CardUniv = () => {
         <img src="/images/ubhara.png" alt="Education" className="w-14 h-14" />
         <div className="w-full max-w-2xl">
           <p className="font-montserrat text-3 font-semibold smm:hidden">
-            Ubhara Jaya
+            Full Stack Developer
           </p>
           <p className="font-montserrat text-3 font-semibold hidden smm:block">
-            Universitas Bhayangkara Jakarta Raya
+            Full Stack Developer
           </p>
           <p className="font-montserrat text-2">Bachelor of Computer Science</p>
         </div>
@@ -72,10 +72,7 @@ const CardUniv = () => {
             className="w-24 mb-2"
           />
           <p className="font-montserrat">
-            I am studying at Ubharajaya University, in the Faculty of Computer
-            Science, majoring in Informatics. Additionally, I am passionate
-            about exploring the dynamic field of technology and its
-            applications.
+            A full-stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser Program a server
           </p>
         </div>
       </dialog>
