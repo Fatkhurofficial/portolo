@@ -50,23 +50,23 @@ const Left = () => {
     <>
       <div className="w-[11.5rem] mb-10 md:mt-12">
         <h1 ref={titleRef} className="font-neue tracking-widest text-40 font-semibold leading-10 mb-2">
-          Dimas Pamungkas Mursidi.
+          Fatkhur Rokhim.
         </h1>
         <hr ref={hrRef} className="border-tertiary border-2 rounded w-20" />
         <nav ref={navRef} className="flex gap-1 mt-2 text-2xl">
           <ul className="flex gap-1 mb-6">
             <li>
-              <a href="https://www.instagram.com/dmspamungkass/">
+              <a href="https://www.instagram.com/fatkhur.__">
                 <IoLogoInstagram />
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/dimas-pamungkas-mursidi-7511b9262/">
+              <a href="https://www.linkedin.com/in/fatkhurdealova">
                 <PiLinkedinLogo />
               </a>
             </li>
             <li>
-              <a href="https://github.com/dimaspamungkasmursidi">
+              <a href="https://github.com/fatkhur-dev">
                 <IoLogoGithub />
               </a>
             </li>
