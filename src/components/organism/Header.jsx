@@ -84,13 +84,6 @@ const Header = () => {
               </Link>
             </li>
             <li className="active py-3">
-              <Link to="/Certificates"
-                className="active:text-secondary hover:text-secondary transition duration-300 ease-in-out"
-              >
-                Certificates
-              </Link>
-            </li>
-            <li className="active py-3">
               <Link to="/Portofolio"
                 className="active:text-secondary hover:text-secondary transition duration-300 ease-in-out"
               >
