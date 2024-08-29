@@ -125,7 +125,7 @@ const Message = () => {
                 <Link to="/CommingSoon">
                   <IoLogoWhatsapp />
                 </Link>
-                {/* <a href="https://wa.me/+6288297894942">
+                {/* <a href="https://wa.me/+62895412518014">
                   <IoLogoWhatsapp />
                 </a> */}
               </li>
@@ -135,12 +135,12 @@ const Message = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/dimas-pamungkas-mursidi-7511b9262/">
+                <a href="https://www.linkedin.com/in/fatkhurdealova">
                   <PiLinkedinLogo />
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/dmspamungkass/">
+                <a href="https://www.instagram.com/fatkhur.__">
                   <IoLogoInstagram />
                 </a>
               </li>
