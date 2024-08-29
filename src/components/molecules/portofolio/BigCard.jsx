@@ -28,15 +28,6 @@ const BigCard = () => {
 
   return (
     <>
-      <div ref={cardRef} className="w-80 rounded-lg bg-secondary text-primary shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)]">
-        <div className="p-4">
-          <img
-            src="/images/porto1.png"
-            alt="Project"
-            className="rounded-lg object-cover h-72 w-80"
-          />
-        </div>
-      </div>
     </>
   );
 };
