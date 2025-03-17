@@ -1,0 +1,23 @@
+# Telegram API Configuration
+[telegram]
+# Your Telegram API ID (get from https://my.telegram.org/apps)
+api_id = "29301888"
+# Your Telegram API Hash (get from https://my.telegram.org/apps)
+api_hash = "f075d100eb956900c843ae1ed0c22ca9"
+
+# Download Settings
+[download]
+# Maximum number of retry attempts for failed downloads
+max_retries = 3
+# Number of concurrent downloads (higher numbers may cause rate limiting)
+threads = 10
+# Only download files posted after this date (format: YYYY-MM-DD)
+# Set to "2019-01-01" to download all files
+download_from_date = "2020-01-01"
+
+# File Types to Download (true = download, false = skip)
+[file_types]
+photos = true
+videos = true
+documents = true
+audio = true
